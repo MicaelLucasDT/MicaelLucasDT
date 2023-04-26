@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**MicaelLucasDT/MicaelLucasDT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Micael Lucas ✋
+[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/micaellucas_dias/?next=%2F)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/g4distt)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-lucas-ba3538269/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Micaell_lucas12)
 
-Here are some ideas to get you started:
+![Micael Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=MicaelLucasDT&show_icons=true&theme=cobalt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que uso no meu dia a dia
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="Java" src="	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img align="center" alt="Python" src="	https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" />
+</div><br/>
+
+Apaixonado em tecnologia e tudo o que ela pode proporcionar! 
+
+## Contato:
+- [Gmail](micaellucasdias@gmail.com)<br/>
+- [Outlook](micaellucasdias@Outlook.com)<br/>
