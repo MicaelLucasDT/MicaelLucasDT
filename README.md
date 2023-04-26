@@ -10,12 +10,8 @@
 ## Tecnologias que uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="Java" src="	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="Python" src="	https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" />
+    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img align="center" alt="python" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" />
 </div><br/>
 
 Apaixonado em tecnologia e tudo o que ela pode proporcionar! 
-
-## Contato:
-- [Gmail](micaellucasdias@gmail.com)<br/>
-- [Outlook](micaellucasdias@Outlook.com)<br/>
