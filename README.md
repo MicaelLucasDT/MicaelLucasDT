@@ -15,3 +15,7 @@
 </div><br/>
 
 Apaixonado em tecnologia e tudo o que ela pode proporcionar! 
+
+### E-mails: 
+micaellucasdias@gmail.com <br>
+ micaellucasdias@outlook.com
