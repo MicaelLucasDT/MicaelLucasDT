@@ -7,8 +7,6 @@
 
 ![Micael Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=MicaelLucasDT&show_icons=true&theme=cobalt)
 
-## Technologies I use in my daily life
-
 Love about technology and everything it can provide!
 
 ### E-mails: 
